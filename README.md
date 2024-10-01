@@ -12,7 +12,7 @@
   - 建议留个3和1备用,因为有可能现场找不到抽到的人从而需要重新抽
 ## 程序运行
 - 用浏览器打开index.html即可成功运行
-- 推荐活动进行时先本地打开index.html, 再在ppt里为其地址加上超链接,以实现丝滑切抽奖页面,请看[demo](https://iculizhi.github.io/Repositories/jswebpro-lottery2)
+- 推荐活动进行时先本地打开index.html, 再在ppt里为其地址加上超链接,以实现丝滑切抽奖页面,请看[demo](https://iculizhi.github.io/additions/jswebpro-lottery2)
 
 ## 抽奖流程：
 - 选择当次要抽奖的人数
